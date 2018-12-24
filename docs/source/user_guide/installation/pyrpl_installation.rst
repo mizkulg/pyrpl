@@ -5,8 +5,13 @@ Installing PyRPL
 Running from binary files (fastest)
 ====================================
 
-The easiest and fastest way to get PyRPL running is to download and execute the `precompiled executable for windows "pyrpl-windows.exe" <https://sourceforge.net/projects/pyrpl/files/pyrpl-windows.exe>`__ or `linux "pyrpl-linux" <https://sourceforge.net/projects/pyrpl/files/pyrpl-linux>`__. This option requires no extra programs to be installed on the computer. If you want the Pyrpl binaries for a Mac, please let us know `by creating a new issue <https://www.github.com/lneuhaus/pyrpl/issues/new>`_ and we will prepare them for you.
+The easiest and fastest way to get PyRPL running is to download and execute the precompiled executable for
 
+* **Windows**: `"pyrpl-windows.exe" <https://sourceforge.net/projects/pyrpl/files/pyrpl-windows.exe>`__
+* **Linux**: `"pyrpl-linux" <https://sourceforge.net/projects/pyrpl/files/pyrpl-linux>`__, 
+* **Mac**: `pyrpl-mac <https://sourceforge.net/projects/pyrpl/files/pyrpl-mac>`__. 
+
+This option requires no extra programs to be installed on the computer.
 
 
 .. _installation_from_source:
